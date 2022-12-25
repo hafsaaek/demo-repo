@@ -1,3 +1,3 @@
-md is fo rmarkdown
+md is for markdown
 # Demo
 <Insert Description>
